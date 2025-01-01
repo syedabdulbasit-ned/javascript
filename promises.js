@@ -37,24 +37,4 @@ getUser(1)
 
 
     
-// function fetchData(isSuccessful) {
-//     return new Promise((resolve, reject) => {
-//         setTimeout(() => {
-//             if (isSuccessful) {
-//                 resolve("Data fetched successfully!");
-//             } else {
-//                 reject("Failed to fetch data.");
-//             }
-//         }, 2000);
-//     });
-// }
-// fetchData(true)
-//     .then((result) => {
-//         console.log(result); 
-//     })
-//     .catch((error) => {
-//         console.error(error);
-//     })
-//     .finally(() => {
-//         console.log("Promise is settled (resolved or rejected).");
-//     });
+
